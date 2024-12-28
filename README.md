@@ -1,3 +1,3 @@
-# Git For DvOps
+# Git For DevOps
 
-This repository is for understandin Git Concepts for DevOps
+This repository is for understanding Git Concepts for DevOps
